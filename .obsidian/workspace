@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "fa170a52e8c327fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2529f109d9f8d133",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ebed5202c066488",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c146596d3a009c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd50fb69fb26dd96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b38246a87fb7ae0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#technical-writing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eddb8c6ef17ce84a",
+    "type": "split",
+    "children": [
+      {
+        "id": "785b924bf71476c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "159c820b7e7e7013",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "95df4bdc15b767b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2529f109d9f8d133",
+  "lastOpenFiles": [
+    "Software Engineering/Reference Architectures/Job Scheduling/001 Resources.md",
+    "Learnings/DevOps/001 Principles.md",
+    "Books/Agile Application Security.md",
+    "Cybersecurity/Application Security/Threat Modeling/STRIDE Methodology.md",
+    "Cybersecurity/Application Security/Threat Modeling/PASTA Methodology.md",
+    "Learnings/Leadership/Project Oxygen Findings.md",
+    "Learnings/Technical Writing/002 Advice for Technical Writing.md",
+    "Learnings/Technical Writing/001 Awesome Technical Writing.md",
+    "Learnings/Wardley Maps/001 An Introduction to Wardley Maps.md",
+    "Learnings/DevSecOps/001 Principles.md"
+  ]
+}
